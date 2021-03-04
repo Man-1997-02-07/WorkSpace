@@ -18,3 +18,11 @@ https://blog.csdn.net/kongxingxing/article/details/104270463
 
 //gstreamer工具详解：gst-launch-1.0
 https://blog.csdn.net/u010168781/article/details/102805210
+
+2.协助解决并优化spice相关功能问题
+2.1 熟悉不同系统环境下的编库流程&调试(主要是对一些编译工具的熟练使用,类似gdb\pkg-config\mingw64-pkg-config相关的命令行操作)
+2.2 掌握使用Gtk(+-3.0)/Gstrearm(1.0)/Glib(2.0)
+
+
+
+
